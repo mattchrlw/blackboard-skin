@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+ body {
+    /*    font-family: "Neue Haas Grotesk Text Pro", "Arial"; */
+    font-family:"Roboto", "Helvetica Neue", "Neue Haas Grotesk Text Pro", "Arial";
+}
+.menu-item h4 {
+    background: #DDDDDD;
+    border-bottom: 0px;
+    color: #000000;
+    font-size: 1.1em;
+}
+.menu-item li {
+    background: #FFFFFF !important;
+}
+.portlet h2, .breadcrumbs, .actionBar, .bgBanner {
+    background: #51247a;
+}
+.breadcrumbs {
+    box-shadow: 0px;
+}
+.portlet {
+    border: 0px;
+    border-color: #FFFFFF;
+    border-radius: 0px !important;
+}
+.paneTabs {
+    display: none;
+}
+.brandingImgWrap {
+    height: 0px;
+}
+.eesy {
+    display: none;
+}
+#column1 {
+    width: 60% !important;
+}
+#column0 {
+    width: 20% !important;
+}
+#column2 {
+    width: 20% !important;
+}
+.topTabs {
+    height: 50px;
+    box-shadow: none;
+}
+.brandingImgWrap a {
+    top: -17px;
+    left: 0px;
+}
+#appTabList {
+    padding-right: 10px;
+    font-size: 1.4em;
+    color: #FFFFFF;
+}
+.bannerImage {
+    display: float !important;
+    float: center !important;
+}
+.localViewToggle {
+    background: #DDDDDD;
+}
+.topTabs .tabWrapper-right .appTabs {
+    float: left;
+    margin-left: 300px;
+    margin-top: 1px;
+}
+.actionBar {
+    display: none;
+}
+#courseMenuPalette div.navPaletteContent {
+    background-color: #51247a;
+}
+.actionBarMicro {
+    display: none;
+}
+.bgBanner {
+    color: #51247a;
+}
+.announcementList .item, .announcementList-read .item, #announcementList .item {
+    font-size: 1.5em;
+}
+.contentBox, .portal .contentBox {
+    border: 0px;
+    box-shadow: none;
+    background: #FFFFFF;
+}
+body {
+    background: #FFFFFF;
+}
+nav {
+    box-shadow: none;
+}
+.container {
+    display: float;
+    margin: auto;
+    max-width: 1200px;
+}
+.breadcrumbs {
+    margin: 0px;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+}
+#quick_links_wrap a {
+    display: none !important;
+}
+.pageTitle {
+    background: #DDDDDD;
+}
