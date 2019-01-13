@@ -1,5 +1,5 @@
 # blackboard-skin
-A simple Stylish skin for making UQ Blackboard look slicker.
+A simple Stylus skin for making UQ Blackboard look slicker.
 
 ## Installation
 1. Install *Stylus* for your browser of choice. Don't use Stylish. [Here's why.](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/)
